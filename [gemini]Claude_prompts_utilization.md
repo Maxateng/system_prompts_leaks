@@ -1,6 +1,3 @@
-好的，这是您可以下载的Markdown格式报告。
-
-\<immersive type="text/markdown" title="剖析泄露的Claude系统提示词：潜在价值、利用途径与越狱可行性研究" id="llm\_jailbreak\_analysis\_zh\_download"\>
 
 # 剖析泄露的Claude系统提示词：潜在价值、利用途径与越狱可行性研究
 
